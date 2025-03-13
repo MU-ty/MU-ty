@@ -1,4 +1,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MU-ty)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MU-ty&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MU-ty&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MU-ty&show_icons=true&theme=radical)
+
 - 👋 Hi, I’m @MU-ty
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
