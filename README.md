@@ -1,12 +1,12 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MU-ty)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MU-ty&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MU-ty&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @MU-ty
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning frontend.
+- 💞️ I’m looking to collaborate on VStory.
+- 📫 How to reach me 3417633465@qq.com
+- 😄 Pronouns: Wanwu
+- ⚡ Fun fact: I'm single
 
 <!---
 MU-ty/MU-ty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
