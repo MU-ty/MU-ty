@@ -13,8 +13,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MU-ty&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @MU-ty
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning frontend and opencv.
-- 💞️ I’m looking to collaborate on VisActor.
+- 🌱 I’m currently learning frontend and agent.
+- 💞️ I’m looking to collaborate on ![https://github.com/hust-open-atom-club/LT].
 - 📫 How to reach me 3417633465@qq.com
 - 😄 Pronouns: Wanwu
 - ⚡ Fun fact: I'm single
