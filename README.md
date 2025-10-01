@@ -11,8 +11,8 @@
 | **Databases**                                   | ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL)&nbsp; ![SQLite](https://img.shields.io/badge/-SQLite-444444?style=flat&logo=SQLite)&nbsp; [![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org) ||                                                                                                                                                                                                                                                                                                                                                                                                                                                            
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MU-ty)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MU-ty&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-- 👋 Hi, I’m @MU-ty
-- 👀 I’m interested in coding.
+- 👋 Hi, I’m @MU-ty. 
+- 👀 I’m interested in coding. And I'm a **TRAE Fellow** based on Guilin and Nanning.
 - 🌱 I’m currently learning frontend and agent.
 - 💞️ I’m looking to collaborate on ![https://github.com/hust-open-atom-club/LT].
 - 📫 How to reach me 3417633465@qq.com
