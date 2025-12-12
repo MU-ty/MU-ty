@@ -29,6 +29,11 @@
   </table>
 </div>
 
+```html
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/903f1aff-60d3-4294-905e-9d34614e5cd7" width="480" alt="image" />
+</div>
+```
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MU-ty)](https://github.com/ryo-ma/github-profile-trophy)
 
