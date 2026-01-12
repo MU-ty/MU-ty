@@ -9,12 +9,10 @@
 | **Domain Knownledge**                           | [![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/BEPb/BEPb) [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Electrical Engineering Development Badge](https://img.shields.io/badge/-Electrical%20Engineering-4C8CBF?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | **CI / CD**                                     | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/BEPb/BEPb) ![Git](https://img.shields.io/badge/-Git-004400?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github)&nbsp; ![GitLab](https://img.shields.io/badge/-GitLab-444444?style=flat&logo=GitLab)&nbsp;  [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com) [![](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/) [![](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)|
 | **Databases**                                   | ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL)&nbsp; ![SQLite](https://img.shields.io/badge/-SQLite-444444?style=flat&logo=SQLite)&nbsp; [![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org) ||                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MU-ty)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MU-ty&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @MU-ty. 
 - 👀 I’m interested in coding. And I'm a **TRAE Fellow** based on Guilin and Nanning.
 - 🌱 I’m currently learning frontend and agent.
-- 💞️ I’m looking to collaborate on !(LT)[https://github.com/hust-open-atom-club/LT].
+- 💞️ I’m looking to collaborate on [LT](https://github.com/hust-open-atom-club/LT).
 - 📫 How to reach me 3417633465@qq.com
 - 😄 Pronouns: Wanwu
 - ⚡ Fun fact: I'm single
@@ -31,12 +29,9 @@
 </div>
 --->
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/903f1aff-60d3-4294-905e-9d34614e5cd7" width="480" alt="image" />
-</div>
+## My Own Blog
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MU-ty)](https://github.com/ryo-ma/github-profile-trophy)
+### [MU-ty's Blog](https://mu-ty.github.io/mty_blog)
 
 <!---
 MU-ty/MU-ty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
