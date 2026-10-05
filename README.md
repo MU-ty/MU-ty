@@ -1,6 +1,6 @@
 <!-- Custom artwork is stored in this repository; no external banner service required. -->
 <p align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="MU-ty · Wanwu · TRAE Fellow · Building ideas into reality" />
+  <img src="./assets/profile-banner-light.svg" width="100%" alt="MU-ty · Wanwu · TRAE Fellow · Building ideas into reality" />
 </p>
 
 <p align="center">
