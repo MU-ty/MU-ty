@@ -77,7 +77,7 @@
 <td valign="top">
 <h3>成长坐标 · 记录经历，看见成长。</h3>
 <p>把走过的路，变成继续前行的底气。持续整理实习收获、人脉图谱、LeetCode Hot 100、计算机基础、随手记与面试复盘，让每次输入都成为可以复用的经验。</p>
-<p><a href="https://internship-growth-journal.mut520854.chatgpt.site/"><strong>进入成长坐标 ↗</strong></a></p>
+<p><a href="https://wanwumty.dpdns.org/"><strong>进入成长坐标 ↗</strong></a></p>
 <a href="https://internship-growth-journal.mut520854.chatgpt.site/"><img src="https://raw.githubusercontent.com/MU-ty/mty_blog/main/docs/assets/projects/growth-journal.webp" width="100%" alt="成长坐标：实习收获与 LeetCode Hot 100 学习档案预览" /></a>
 </td>
 </tr>
