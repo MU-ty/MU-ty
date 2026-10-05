@@ -1,43 +1,69 @@
-![image](https://github.com/user-attachments/assets/713d349f-34ed-4954-80c9-574c025a980a)
-![image](https://github.com/user-attachments/assets/d222b954-8441-48ce-8ec7-5401c0322b0f)
+<!-- Custom artwork is stored in this repository; no external banner service required. -->
+<p align="center">
+  <img src="./assets/profile-banner.svg" width="100%" alt="MU-ty · Wanwu · TRAE Fellow · Building ideas into reality" />
+</p>
 
-<!--   my-skils -->
+<p align="center">
+  <strong>把想法写成代码，把代码变成体验。</strong><br />
+  <sub>Hi, I'm Wanwu — a TRAE Fellow based in Guilin &amp; Nanning.</sub>
+</p>
 
-| Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Language / IDE**                              | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Pycharm Badge](https://img.shields.io/badge/-Pycharm-3776AB?style=flat&logo=Pycharm&logoColor=white) ![Python Badge](https://img.shields.io/badge/-Django-3776AB?style=flat&logo=Django&logoColor=white)  ![PyQt](https://img.shields.io/badge/-PyQt-004400?style=flat&logo=Qt)&nbsp; ![C](https://img.shields.io/badge/-C-66CC66?style=flat&logo=C&logoColor=A8B9CC)&nbsp; ![C++](https://img.shields.io/badge/-C++-66CC66?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; ![Bash](https://img.shields.io/badge/-Bash-444444?style=flat&logo=GnuBash)&nbsp;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| **Domain Knownledge**                           | [![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/BEPb/BEPb) [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Electrical Engineering Development Badge](https://img.shields.io/badge/-Electrical%20Engineering-4C8CBF?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| **CI / CD**                                     | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/BEPb/BEPb) ![Git](https://img.shields.io/badge/-Git-004400?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github)&nbsp; ![GitLab](https://img.shields.io/badge/-GitLab-444444?style=flat&logo=GitLab)&nbsp;  [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com) [![](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/) [![](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)|
-| **Databases**                                   | ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL)&nbsp; ![SQLite](https://img.shields.io/badge/-SQLite-444444?style=flat&logo=SQLite)&nbsp; [![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org) ||                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-- 👋 Hi, I’m @MU-ty. 
-- 👀 I’m interested in coding. And I'm a **TRAE Fellow** based on Guilin and Nanning.
-- 🌱 I’m currently learning frontend and agent.
-- 💞️ I’m looking to collaborate on [LT](https://github.com/hust-open-atom-club/LT).
-- 📫 How to reach me 3417633465@qq.com
-- 😄 Pronouns: Wanwu
-- ⚡ Fun fact: I'm single
+<p align="center">
+  <a href="https://mu-ty.github.io/mty_blog"><img src="https://img.shields.io/badge/READ_THE_BLOG-171c30?style=for-the-badge&amp;logo=githubpages&amp;logoColor=65e6e0" alt="Read my blog" /></a>
+  <a href="https://github.com/MU-ty?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-171c30?style=for-the-badge&amp;logo=github&amp;logoColor=ab8aff" alt="Explore my repositories" /></a>
+  <a href="mailto:3417633465@qq.com"><img src="https://img.shields.io/badge/SAY_HELLO-171c30?style=for-the-badge&amp;logo=maildotru&amp;logoColor=65e6e0" alt="Email me" /></a>
+</p>
 
-<!---
-<div align="center">
-  <table>
-    <tr>
-      <td style="border: 2px solid #ccc; border-radius: 8px; padding: 4px;">
-        <img width="959" height="1280" alt="image" src="https://github.com/user-attachments/assets/903f1aff-60d3-4294-905e-9d34614e5cd7" />
-      </td>
-    </tr>
-  </table>
-</div>
---->
+---
 
-## My Own Blog
+### 01 / About me
 
-### [MU-ty's Blog](https://mu-ty.github.io/mty_blog)
+我喜欢编程，也喜欢让一个想法从「可以做」走到「用得上」。目前正在学习 **前端开发与 AI Agent**，探索界面体验与智能工作流的结合。
 
-## What have I been doing lately?
+- **Identity** · MU-ty / Wanwu / TRAE Fellow
+- **Based in** · 桂林 & 南宁
+- **Learning** · Frontend development · AI agents
+- **Open to** · 围绕 [LT](https://github.com/hust-open-atom-club/LT) 的交流与协作
 
-### We are developing[AI-Office-Assistant](https://github.com/MU-ty/AI-Office-Assistant)
+### 02 / In the making
 
-<!---
-MU-ty/MU-ty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>AI Office Assistant</h3>
+<p><strong>让智能走进日常工作。</strong></p>
+<p>正在开发的智能办公助手，围绕文献处理、会议纪要、PPT 生成与知识库，把分散的工作连接成完整流程。</p>
+<p><code>AI Agent</code> <code>Productivity</code> <code>Knowledge Base</code></p>
+<p><a href="https://github.com/MU-ty/AI-Office-Assistant">探索项目 ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>LT / LLM Translator</h3>
+<p><strong>让技术知识跨越语言。</strong></p>
+<p>关注并寻求协作的开源项目：面向 Linux Kernel 文档的翻译 Agent，支持分块翻译、完整性检测与定向重译。</p>
+<p><code>LLM</code> <code>Translation</code> <code>Open Source</code></p>
+<p><a href="https://github.com/hust-open-atom-club/LT">了解项目 ↗</a></p>
+</td>
+</tr>
+</table>
+
+### 03 / My toolkit
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | Python · C · C++ · Bash |
+| **Frameworks** | Django · PyQt |
+| **Data** | MySQL · SQLite · PostgreSQL |
+| **Tools** | Git · GitHub · GitLab · Docker · PyCharm · VS Code |
+| **Exploring** | Frontend · AI agents · Machine learning |
+
+### 04 / Beyond the code
+
+在 [**MU-ty's Blog**](https://mu-ty.github.io/mty_blog) 记录思考与探索，也欢迎聊聊有意思的项目。
+
+**Let's build something useful.** → [3417633465@qq.com](mailto:3417633465@qq.com)
+
+---
+
+<p align="center">
+  <sub>好奇心是起点，创造是下一步。<br />Curiosity starts it. Building carries it forward.</sub>
+</p>
