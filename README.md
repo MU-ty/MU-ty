@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://mu-ty.github.io/mty_blog"><img src="https://img.shields.io/badge/READ_THE_BLOG-171c30?style=for-the-badge&amp;logo=githubpages&amp;logoColor=65e6e0" alt="Read my blog" /></a>
-  <a href="https://github.com/MU-ty?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-171c30?style=for-the-badge&amp;logo=github&amp;logoColor=ab8aff" alt="Explore my repositories" /></a>
-  <a href="mailto:3417633465@qq.com"><img src="https://img.shields.io/badge/SAY_HELLO-171c30?style=for-the-badge&amp;logo=maildotru&amp;logoColor=65e6e0" alt="Email me" /></a>
+  <a href="https://mu-ty.github.io/mty_blog"><img src="https://img.shields.io/badge/READ_THE_BLOG-186553?style=for-the-badge&amp;logo=githubpages&amp;logoColor=f7f8f3" alt="Read my blog" /></a>
+  <a href="https://github.com/MU-ty?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-186553?style=for-the-badge&amp;logo=github&amp;logoColor=f7f8f3" alt="Explore my repositories" /></a>
+  <a href="mailto:3417633465@qq.com"><img src="https://img.shields.io/badge/SAY_HELLO-186553?style=for-the-badge&amp;logo=maildotru&amp;logoColor=f7f8f3" alt="Email me" /></a>
 </p>
 
 ---
