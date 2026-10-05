@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" role="img" aria-labelledby="title desc">
+<title id="title">MU-ty — Building ideas into reality</title>
+<desc id="desc">Light ivory and sage banner with forest green orbital lines. Wanwu, TRAE Fellow, building backend systems and AI agents in Guilin and Nanning.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f7f8f3"/><stop offset="1" stop-color="#edf3ee"/></linearGradient>
+ <linearGradient id="accent"><stop stop-color="#185c4d"/><stop offset="1" stop-color="#277d62"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#74b88c" stop-opacity=".25"/><stop offset="1" stop-color="#74b88c" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#68796f" stroke-opacity=".045"/></pattern>
+</defs>
+<rect x=".5" y=".5" width="1279" height="479" rx="24" fill="url(#bg)" stroke="#dce5dc"/>
+<rect width="1280" height="480" rx="24" fill="url(#grid)"/>
+<circle cx="1000" cy="235" r="290" fill="url(#glow)"/>
+<g fill="none" stroke="url(#accent)">
+ <ellipse cx="1010" cy="234" rx="175" ry="175" opacity=".35"/>
+ <ellipse cx="1010" cy="234" rx="210" ry="74" transform="rotate(-35 1010 234)" opacity=".65"/>
+ <ellipse cx="1010" cy="234" rx="210" ry="74" transform="rotate(35 1010 234)" opacity=".35"/>
+ <circle cx="1010" cy="234" r="120" stroke-dasharray="3 12" opacity=".4"/>
+ <path d="M971 211l-25 23 25 23m78-46 25 23-25 23m-27-36-24 50" stroke="#186553" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<circle cx="1135" cy="109" r="6" fill="#186553"/>
+<circle cx="843" cy="320" r="5" fill="#b2c670"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+ <text x="72" y="79" fill="#186553" font-size="13" letter-spacing="4">HELLO WORLD / I'M WANWU</text>
+ <text x="66" y="201" fill="#203b33" font-size="106" font-weight="750" letter-spacing="-6">MU-ty<tspan fill="#186553">.</tspan></text>
+ <text x="72" y="263" fill="#203b33" font-size="31" font-weight="600">Building ideas into reality.</text>
+ <text x="72" y="303" fill="#68796f" font-size="18">Backend engineering, AI agents &amp; reliable systems.</text>
+ <rect x="72" y="349" width="133" height="32" rx="16" fill="#186553" fill-opacity=".09" stroke="#186553" stroke-opacity=".3"/>
+ <text x="91" y="370" fill="#186553" font-size="13">TRAE FELLOW</text>
+ <text x="226" y="370" fill="#68796f" font-size="13" letter-spacing="1">GUILIN / NANNING</text>
+ <text x="72" y="437" fill="#68796f" font-size="11" letter-spacing="3">CURIOSITY → CODE → CREATION</text>
+ <text x="940" y="437" fill="#68796f" font-size="11" letter-spacing="3">ALWAYS EXPLORING</text>
+</g>
+</svg>
